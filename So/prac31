@@ -1,0 +1,4 @@
+class car:
+    def __init__(self, tire,price):
+        self.tire=tire
+        self.price=price
